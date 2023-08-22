@@ -19,7 +19,7 @@
     "pattern_match_files": "./lv_conf.h, ./main.c, ./.project, ./.cproject",
     "language":"C",
     "ui_export_path":"./ui",
-    "url":"https://squareline.io",
+    "url":"https://www.nxp.com/design/development-boards/i-mx-evaluation-and-development-boards/i-mx-rt1064-evaluation-kit:MIMXRT1064-EVK",
     "short_description": "MCUXpresso project for NXP i.MX RT1064 EVK (480x272, 16 bit, 600 MHz)",
     "long_description": "The i.MX RT1064 EVK uses the i.MX RT1064 crossover MCU, running at 600 MHz featuring NXP’s advanced implementation of the Arm® Cortex®-M7 core. It’s the first i.MX RT devices that includes on-chip flash (4 MB). Support for FreeRTOS™ available within the MCUXpresso SDK"
 }
